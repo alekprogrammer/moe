@@ -12,6 +12,7 @@ _Almost finished the course JavaScript Algorithms and Data Structures on the sit
 3. Basics JavaScript
 4. Basics C #
 5. Basics C ++
+
 ###### Education<br>
 Vocational Pedagogical College named after Gagarin:<br>
 Specialty - Computer systems and complexes.
